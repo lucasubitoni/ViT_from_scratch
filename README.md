@@ -2,7 +2,7 @@
 
 Implementazione da zero del Vision Transformer in PyTorch. 
 
-<img src="img/architecture.png"/>
+<img src="img/architecture.jpg"/>
 
 ## Componenti
 
